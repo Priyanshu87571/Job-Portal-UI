@@ -1,3 +1,3 @@
 # Job-Portal-UI
 
-Job-Portal :- 
+Job-Portal :- https://jp-it-staffing.netlify.app/
