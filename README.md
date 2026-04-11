@@ -6,7 +6,7 @@ JP IT STAFFING is a modern and responsive job portal frontend designed to connec
 
 ## 🚀 Live Demo
 
-🌐 Live Site:-
+🌐 Live Site:- https://jp-it-staffing.netlify.app/
 
 ---
 
