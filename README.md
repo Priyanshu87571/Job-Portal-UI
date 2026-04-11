@@ -132,7 +132,6 @@ Frontend Developer passionate about building scalable, user-friendly, and modern
 
 This project is intended for educational and portfolio purposes.
 
-Job-Portal :- https://jp-it-staffing.netlify.app/
 
 
 
