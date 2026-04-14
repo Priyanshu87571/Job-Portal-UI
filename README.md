@@ -128,8 +128,6 @@ Frontend Developer passionate about building scalable, user-friendly, and modern
 
 ---
 
-
-
 ## 📄 License
 
 This project is intended for educational and portfolio purposes.
