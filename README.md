@@ -65,6 +65,7 @@ src/
 ├── App.jsx           # Application routing
 
 ├── main.jsx          # Entry point
+
 └── index.css         # Global styles
 
 ---
