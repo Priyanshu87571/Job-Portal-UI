@@ -63,6 +63,7 @@ src/
 ├── pages/            # Page components (Home, Jobs, About, Services, Contact)
 
 ├── App.jsx           # Application routing
+
 ├── main.jsx          # Entry point
 └── index.css         # Global styles
 
