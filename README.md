@@ -57,7 +57,6 @@ job-portal/
 
 src/
 
-│
 ├── components/       # Reusable UI components
 
 | ├── pages/            # Page components (Home, Jobs, About, Services, Contact)
