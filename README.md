@@ -76,7 +76,7 @@ src/
 ## ▶️ Getting Started (Local Setup)
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/Job-Portal-UI.git
+git clone 
 
 ### 2. Navigate to the project directory
 cd Job-Portal-UI
