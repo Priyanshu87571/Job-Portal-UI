@@ -54,6 +54,7 @@ The focus of this project is on:
 ## 📁 Project Structure
 
 job-portal/
+
 src/
 │
 ├── components/       # Reusable UI components
