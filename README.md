@@ -59,6 +59,7 @@ src/
 
 │
 ├── components/       # Reusable UI components
+
 ├── pages/            # Page components (Home, Jobs, About, Services, Contact)
 ├── App.jsx           # Application routing
 ├── main.jsx          # Entry point
