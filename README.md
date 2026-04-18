@@ -65,7 +65,7 @@ src/
 
 | ├── main.jsx          # Entry point
 
-└── index.css         # Global styles
+| | └── index.css         # Global styles
 
 ---
 
