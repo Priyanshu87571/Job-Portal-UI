@@ -60,7 +60,7 @@ src/
 │
 ├── components/       # Reusable UI components
 
-├── pages/            # Page components (Home, Jobs, About, Services, Contact)
+| ├── pages/            # Page components (Home, Jobs, About, Services, Contact)
 
 ├── App.jsx           # Application routing
 
